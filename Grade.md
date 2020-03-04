@@ -4,5 +4,6 @@ Test cases section should have a unique identifier for every test case (-1).
 Output values should specify transient output, while postconditions should specify any change of state. 
 Traceability matrix is good.
 Defects section should indicate which test(s) reveal each defect.
+Requirements said PDF file (-1).
 
-8/10
+7/10
